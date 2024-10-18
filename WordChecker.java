@@ -7,6 +7,10 @@ public class WordChecker {
     public WordChecker(ArrayList<String> list)
     {
         wordList = list;
+    }
+
+    public WordChecker()
+    {
         wordList = new ArrayList<String>();
     }
 

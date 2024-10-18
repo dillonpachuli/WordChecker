@@ -11,5 +11,6 @@ public class Main
         words.add("band");
         words.add("band");
         words.add("abandon");
+        System.out.println(words);
     }
 }
